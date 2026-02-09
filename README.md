@@ -19,8 +19,6 @@ A flight computer (FC) with all features needed for standalone flight of a drone
 - Exposed pads for reset/boot pins
 - Motor drivers are wired for one-direction motor drive, no reverse motors.
 
-![System Block Diagram](/images/diagram.png)
-
 ## Components
 
 | Component | Name | Purpose | Notes | LCSC # |
@@ -33,3 +31,7 @@ A flight computer (FC) with all features needed for standalone flight of a drone
 | Battery IC | BQ24074RGTR | Battery charger | Switches power between USB and battery | C54313 |
 | Battery | Spektrum | Power for Drone | 3.7V 800mAh 1S 30C LiPo | Amazon |
 | Motor | 8520 coreless motor | Motor | ~5g | Amazon |
+
+![System Block Diagram](/images/diagram.png)
+
+![Schematic](/images/Schematic.png)
